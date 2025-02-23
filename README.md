@@ -1,3 +1,3 @@
 Hi :)
 
-![Moving Computer](img/nbg5-60.gif)
+![Moving Computer](img/nbg5-3.gif)
